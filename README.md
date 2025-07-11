@@ -18,7 +18,7 @@ Access step-by-step guides on admissions, scholarships, visa processes, and more
 Clean UI with bottom tab navigation and dynamic screens for a smooth user experience.
 
 🛠️ Built With
-React Native (CLI)
+React Native 
 
 React Navigation
 
@@ -34,7 +34,7 @@ Vector Icons
 git clone  https://github.com/ZAKAULHASSAN/StudyGlobe
 
 
-cd studyglobe-frontend
+cd StudyGlobe
 
 
 npm install
